@@ -1,5 +1,5 @@
 # customer-churn-predictionn
-have 40 days data of customer
+have 40 days data of customer transactions
 
 # include: 
  1.data cleasing
